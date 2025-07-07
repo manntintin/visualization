@@ -9,46 +9,26 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      
-GOOD      
-    “Happiness around the world” (Fakayode Emmanuel)
-     https://public.tableau.com/app/profile/fakayode.emmanuel/viz/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld
-      
-    - Clear connection between data and visuals: Countries are coloured using a green-to-red scale, where green means higher happiness and red means lower. This colour scheme helps people quickly understand how happiness levels differ around the world.
-    - Good use of extra details with small charts: Next to each country, there is a small circular chart that shows more information like GDP, freedom, and health. These mini-charts help viewers see both the big picture and the detailed reasons behind each country's happiness score, without making the dashboard too messy.
-    - Strong interactivity: The dashboard includes useful features like tooltips, filters, and clickable countries. These tools make it easier for users to explore the data on their own, which follows good practices in interactive data design.
+      ```
+      Your answer...
 
 
-BAD
-    “The Color of Sleep” (Prasann Prem)
-    https://public.tableau.com/app/profile/prasann.prem/viz/TheColorofSleep/TheColorofSleep
 
-    - Too much use of metaphor makes it hard to read: The chart uses flower leaves and circle shapes to show sleep data. People need to think and guess what they mean before they can understand the numbers. This makes it harder to learn from the chart.
-    - Shapes can be misleading: The circle arcs look longer when they are further from the center, even if the sleep time is the same. This may trick people into thinking some students sleep more than they really do.
-    - Colour meaning not clear: The chart uses green and blue to show recommended and actual sleep. These colours feel calm, but they don’t show a strong difference, so it’s hard to compare. The designer picked them for how they feel, not for clear reading.
-    - Legend is too difficult: The chart shows four levels of sleep (Poor, Moderate, Better, Optimum), but the meaning is not easy to understand. People need to think a lot to figure it out.
-    - Not enough text to help users: There are not many labels or notes in the chart. It doesn’t say clearly which grade is which or point out important things, so users might not know that older students are getting less sleep.
+
+
 
 
       ```
     - How could this data visualization have been improved?  
-     
-     GOOD      
-        “Happiness around the world” (Fakayode Emmanuel)
-        
-        - Use colours that more people can see clearly: Some people who are colour-blind may find it hard to see the green and red. Using colours that are friendly for colour-blind users, like Viridis or Tol, can help more people understand the map.
-        - Add a key for the small circle charts: The circle charts beside each country look nice, but it’s hard to know what each part means. If the designer adds a simple key or shows the meaning when you hover over it, the chart will be easier to understand.
-        - Let users see changes over time: If the map has a slider or timeline, people can compare happiness in different years. This can help them see whether things are getting better or worse in each country.
+      ```
+      Your answer...
 
-    BAD
-         “The Color of Sleep” (Prasann Prem)
 
-        - Use a simpler chart: Change to a bar chart or line chart to show recommended and actual sleep by grade. This helps people see the difference clearly and avoid confusion.
-        - Sort the grades in order: Put the grades from K to 12 in the right order. This makes it easier to follow and see the trend.
-        - Use colour to show the difference: Use two colours to show if students sleep too little or too much—for example, red for too little, blue for too much.
-        - Add clear notes on the chart: Write short messages on the chart, like “Middle school students sleep 1 hour less,” to help people understand the main point quickly.
-        - Make the legend easier: Don’t use 4 levels like “Poor” or “Better.” Use a simple colour bar with clear numbers to show how much sleep is missed.
 
+
+
+
+      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
